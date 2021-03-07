@@ -1,0 +1,14 @@
+{
+    "version": "0.2.1",
+    "command": "Chrome",
+    "windows": {
+        "command": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"
+    },
+    "tasks": [
+        {
+            "taskName": "task-Page",
+            "appliesTo": "/",
+            "type": "launch"
+        }
+    ]
+}
